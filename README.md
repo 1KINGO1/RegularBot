@@ -2,12 +2,12 @@
 Discord bot on a regular discord account 🥴
 
 <h2>Installation</h2>
-```
-$ npm install
+```bash
+npm install
 ```
 <h2>Starting</h2>
-```
-$ node main
+```bash
+node main
 ```
 <h2>Settings</h2>
 <p style="font-weight: bold">For everything to work correctly, you need to get your <span style="color: yellow">client's token</span>, it's not as easy as it sounds.</p>
