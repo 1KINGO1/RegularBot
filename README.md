@@ -2,13 +2,9 @@
 Discord bot on a regular discord account 🥴
 
 <h2>Installation</h2>
-```bash
-npm install
-```
+<p>npm install</p>
 <h2>Starting</h2>
-```bash
-node main
-```
+<p>node main</p>
 <h2>Settings</h2>
 <p style="font-weight: bold">For everything to work correctly, you need to get your <span style="color: yellow">client's token</span>, it's not as easy as it sounds.</p>
 <p style="font-weight: bold">Follow the instructions:</p>
