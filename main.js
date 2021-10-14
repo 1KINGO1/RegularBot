@@ -1,6 +1,5 @@
 const axios = require("axios");
 let WebSocketClient = require('websocket').client;
-const {Intents} = require("discord.js");
 require('dotenv').config()
 
 let client = new WebSocketClient();
