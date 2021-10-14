@@ -51,7 +51,7 @@ client.on('connect', async  function(connection) {
         if (!data.t) return
         //MESSAGE_CREATE
         if (data.t === "MESSAGE_CREATE"){
-            if (data.d.content.startsWith(PREFIX)) return;
+            if (!data.d.content.startsWith(PREFIX)) return;
 
             let mes = data.d;
 
